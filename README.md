@@ -1,6 +1,9 @@
 # Exno:1
 Data Cleaning Process
 
+          Name:A.Ranen Joseph Solomon
+          Register Number: 212224040269
+
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
